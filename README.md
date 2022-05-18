@@ -10,7 +10,7 @@ Self-taught user for over three years.
 Have started locally on command line (Git Bash), worked with graphical tools (Git GUI, gitk), and Web-based frontends (GitHub, Gitlab).
 Have even given an introduction to Git(lab) to my colleagues at work.
 
-### [Matlab](www.matlab.com)
+### [Matlab](https://www.matlab.com)
 Has been my daily driver for more than six years, for data analysis, simulation and model fitting.
 I consider myself very proficient with it.
 
@@ -23,7 +23,7 @@ Also wrote small command-line applications, and used it for basic web scraping.
 Did my first installation of Xubuntu about nine years ago.
 Have been using different variants of Ubuntu since then, both on desktop and server.
 
-### [Vim](www.vim.org)
+### [Vim](https://www.vim.org)
 Not my daily driver, and I have not gone through the lengths of [configuring](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) everything to my needs.
 However, I have found certain functionality very useful, such as Visual Block Mode, or Search&Replace with regular expressions, and use it to save me tons of tedious editing work.
 
